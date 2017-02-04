@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC>
+<qresource prefix="/">
+    <file>utilities-system-monitor-icon.png</file>
+    <file>qml/HistoryGraph.qml</file>
+    <file>qml/main.qml</file>
+    <file>qml/PercentSensor.qml</file>
+</qresource>
+</RCC>
