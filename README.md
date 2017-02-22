@@ -23,3 +23,8 @@ Add system tray icons that show current value and recent history of
 - Virtual Memory load
 
 Clicking on system tray icon hides/shows the graphical widget.
+
+Screenshot
+----------
+
+![Overview](doc/overview.png)
